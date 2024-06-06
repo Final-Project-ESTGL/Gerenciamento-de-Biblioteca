@@ -16,8 +16,8 @@ Quando se abre uma destas opções, abre-se o respetivo separador.
     Exibir detalhes dos clientes(Nome, Email, Data de Nascimento,Número de Telemóvel e Número de Cliente).
 
 -Gerenciar Empréstimos:
-    Emprestar livros para clientes - para isso deve-se selecionar um Livro da lista de Livros e um Cliente da lista de Clientes e, após       clica-se no botão Adicionar Empréstimo .
-    Adiar a entrega dos livros.
+    Emprestar livros para clientes - para isso deve-se selecionar um Livro da lista de Livros e um Cliente da lista de Clientes e, após       clica-se no botão Adicionar Empréstimo.
+    Remover os Empréstimos.
 
 
 Realizado por Eduardo Oliveira 27064, Mariana Silva 27998, Tomás Ascensão 28738 e João Branquinho 28744.
